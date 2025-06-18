@@ -1,8 +1,6 @@
 # Nameserver IP checker
 
-Sure! Here's a clean and concise **README summary** section you can add to your GitHub project:
 
----
 
 ### 🧾 Nameserver IP Checker (Python)
 
