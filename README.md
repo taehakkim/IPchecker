@@ -49,7 +49,3 @@ print(f"IP address of {nameserver2} is {ip_address2}")
 print(f"IP address of {nameserver3} is {ip_address3}")
 print(f"IP address of {nameserver4} is {ip_address4}")
 ```
-
----
-
-Let me know if you'd like to extend it to check more nameservers or add exception handling!
